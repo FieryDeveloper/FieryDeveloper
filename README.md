@@ -15,7 +15,7 @@
 
 <!-- Typing banner — animated, your actual research identity -->
 <a href="https://github.com/FieryDeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=6C8EBF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Amogh+Gupta.;MS+CS+%40+UNC+Chapel+Hill+%E2%80%94+SAIL+Lab.;I+work+on+LLM+alignment%2C+fairness%2C+%26+responsible+AI.;Making+language+models+fair+across+languages+%26+cultures." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=6C8EBF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Amogh+Gupta.;MS+CS+%40+UNC+Chapel+Hill.;I+work+on+LLM+alignment%2C+fairness%2C+%26+responsible+AI." alt="Typing SVG" />
 </a>
 
 <br/>
