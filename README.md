@@ -22,9 +22,7 @@
 
 <!-- Identity strip: clean, architectural, no emoji flood -->
 <kbd>&nbsp;Chapel&nbsp;Hill,&nbsp;NC&nbsp;</kbd>
-<kbd>&nbsp;SAIL&nbsp;Lab&nbsp;</kbd>
 <kbd>&nbsp;guam@unc.edu&nbsp;</kbd>
-<kbd>&nbsp;FAccT&nbsp;'26&nbsp;</kbd>
 
 <br/><br/>
 
